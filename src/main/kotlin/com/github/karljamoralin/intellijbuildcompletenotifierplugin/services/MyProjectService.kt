@@ -1,7 +1,7 @@
 package com.github.karljamoralin.intellijbuildcompletenotifierplugin.services
 
-import com.intellij.openapi.project.Project
 import com.github.karljamoralin.intellijbuildcompletenotifierplugin.MyBundle
+import com.intellij.openapi.project.Project
 
 class MyProjectService(project: Project) {
 
